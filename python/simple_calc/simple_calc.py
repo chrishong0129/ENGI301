@@ -98,10 +98,14 @@ if __name__ == "__main__":
         # Get user input
         (in1, in2, op) = get_user_input()
         
+        try:
+            input = raw_input
+        except NameError:
+            pass
+        
         # Check if either of the inputs is not valid
         if (in1 is None) or (in2 is None):
             break
-        
         
         # Check if the operator is valid
         try:
