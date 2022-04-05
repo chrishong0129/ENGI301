@@ -1,0 +1,16 @@
+ENGI301 Project_01
+Project Name: He's a Keeper
+Project Owner: Christopher Hong
+Date: Apr 4, 2022
+
+This is a goalkeeper reflex training game modified from the classic Whac-a-mole game. 
+There are 5 buttons incorporated, which are each fit into 3D-printed enclosures with suction cups.
+Feel free to add male-female jumper wires if you want to position the buttons further away.
+
+Each game will start with a 3-sec countdown and go through 20 rounds.
+In each round, one of the 5 buttons will light up randomly with the buzzer. 
+Hit the lit button as quick as possible! The display will show you how much time you took to hit it.
+The time delay between each round is randomized, so be alert!
+At the end of the game, the display will show you the average time you took to hit the correct button.
+
+Check the Hackster page for detailed instructions: %%%%%
