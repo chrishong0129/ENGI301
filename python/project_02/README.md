@@ -6,6 +6,7 @@ Date: May 2, 2022
 
 He's a Keeper is a goalkeeper reflex training game modified from the classic Whac-a-mole game. 
 The circuit design of He's a Keeper was initially on a breadboard, but now will be replaced with a new PCB design.
+The PCB is designed to be circular, matching the shape of circular buttons!
 Unfortunately, the PCB design was not completed in time.
 The schematics are almost complete, but the layout still needs a decent bit of work to be done.
 
